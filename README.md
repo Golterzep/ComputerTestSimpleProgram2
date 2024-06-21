@@ -1,2 +1,2 @@
 # ComputerTestSimpleProgram2
-Program computer simulator
+computer simulator Test
